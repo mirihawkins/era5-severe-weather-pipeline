@@ -6,7 +6,7 @@
 
 \- Used Anaconda’s built-in AI Assist in the notebook environment to:
 
-&nbsp; - Correct syntax errors.
+&nbsp; - Correct syntax errors (multiple within standard deviation processes)
 
 &nbsp; - Simplify redundant code.
 
